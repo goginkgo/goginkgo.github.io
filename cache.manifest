@@ -1,5 +1,6 @@
 CACHE MANIFEST
-board.html
+CACHE:
+index.html
 favicon.ico
 favicon.png
 images/background.png
@@ -31,3 +32,8 @@ images/stone-white.png
 images/triangle-black.png
 images/triangle-red.png
 images/triangle-white.png
+scripts/main.js
+scripts/lib/FileSaver.min.js
+styles/main.css
+NETWORK:
+*
